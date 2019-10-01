@@ -71,9 +71,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70397722"
-     inkscape:cx="1181.7651"
-     inkscape:cy="270.01492"
+     inkscape:zoom="0.35198861"
+     inkscape:cx="941.39134"
+     inkscape:cy="351.20423"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -123,14 +123,20 @@
        height="211.66666"
        x="0"
        y="85.067528"
-       style="fill:url(#linearGradient13701);fill-opacity:1.0;stroke-width:0.26458332" />
+       style="fill:url(#linearGradient13701);fill-opacity:1.0;stroke-width:0.26458332"
+       inkscape:export-filename="./merdeka-1.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <rect
        style="fill:url(#linearGradient13709);fill-opacity:1;stroke-width:0.26458332"
        y="85.33329"
        x="211.66666"
        height="211.66666"
        width="211.66666"
-       id="rect4520" />
+       id="rect4520"
+       inkscape:export-filename="./merdeka-2.png"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300" />
     <g
        aria-label="MERDEKA!"
        transform="matrix(0.98887846,0,0,1.3235003,-2.2743997,-38.116374)"
@@ -1269,17 +1275,17 @@ AAAASUVORK5CYII=
        id="rect16433"
        width="58.166153"
        height="8.6687555"
-       x="288.4169"
+       x="182.64459"
        y="282.07086" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.71349764px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4a7718;fill-opacity:1;stroke:none;stroke-width:0.09283744"
-       x="296.19147"
+       x="190.41916"
        y="287.91107"
        id="text16431"><tspan
          sodipodi:role="line"
          id="tspan16429"
-         x="296.19147"
+         x="190.41916"
          y="287.91107"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Purisa;-inkscape-font-specification:'Purisa Bold';fill:#4a7718;fill-opacity:1;stroke-width:0.09283744">dribbble.com/arivle</tspan></text>
   </g>
