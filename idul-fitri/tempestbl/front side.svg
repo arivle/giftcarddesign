@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2587" height="913" viewBox="0 0 2587 913">
+  <defs>
+    <clipPath id="clip-front_side">
+      <rect width="2587" height="913"/>
+    </clipPath>
+  </defs>
+  <g id="front_side" data-name="front side" clip-path="url(#clip-front_side)">
+    <rect width="2587" height="913" fill="#72fea0"/>
+    <text id="Kartu_Lebaran" data-name="Kartu Lebaran" transform="translate(970 540)" fill="#00bc83" font-size="200" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Kartu Lebaran</tspan></text>
+    <text id="Kartu_spesial_cuma_buat_kamu" data-name="Kartu spesial cuma buat kamu" transform="translate(1087 671)" fill="#00bc83" font-size="75" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Kartu spesial cuma buat kamu</tspan></text>
+    <g id="Group_1" data-name="Group 1" transform="translate(384.995 47.178) rotate(45)">
+      <rect id="Rectangle_1" data-name="Rectangle 1" width="179.493" height="179.492" rx="25" transform="translate(219 126.007)" fill="#00bc83"/>
+      <line id="Line_1" data-name="Line 1" y2="179.499" transform="translate(279.628 126.5)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_2" data-name="Line 2" y2="179.499" transform="translate(342.456 126.5)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_3" data-name="Line 3" x2="179.5" transform="translate(219.5 181.601)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_4" data-name="Line 4" x2="179.5" transform="translate(219.5 250.083)" fill="none" stroke="#72fea0" stroke-width="3"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(234.995 200.178) rotate(45)">
+      <rect id="Rectangle_1-2" data-name="Rectangle 1" width="179.493" height="179.492" rx="25" transform="translate(219 126.007)" fill="#00bc83"/>
+      <line id="Line_1-2" data-name="Line 1" y2="179.499" transform="translate(279.628 126.5)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_2-2" data-name="Line 2" y2="179.499" transform="translate(342.456 126.5)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_3-2" data-name="Line 3" x2="179.5" transform="translate(219.5 181.601)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_4-2" data-name="Line 4" x2="179.5" transform="translate(219.5 250.083)" fill="none" stroke="#72fea0" stroke-width="3"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(234.995 -99.822) rotate(45)">
+      <rect id="Rectangle_1-3" data-name="Rectangle 1" width="179.493" height="179.492" rx="25" transform="translate(219 126.007)" fill="#00bc83"/>
+      <line id="Line_1-3" data-name="Line 1" y2="179.499" transform="translate(279.628 126.5)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_2-3" data-name="Line 2" y2="179.499" transform="translate(342.456 126.5)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_3-3" data-name="Line 3" x2="179.5" transform="translate(219.5 181.601)" fill="none" stroke="#72fea0" stroke-width="3"/>
+      <line id="Line_4-3" data-name="Line 4" x2="179.5" transform="translate(219.5 250.083)" fill="none" stroke="#72fea0" stroke-width="3"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M-8069.246-2807c-35.919,54.843-13.417,86.325,0,118.128,8.878,21.05,5.678,42.98,5.678,42.98" transform="translate(8377 3486)" fill="none" stroke="#00bc83" stroke-width="15"/>
+  </g>
+</svg>
